@@ -3,12 +3,14 @@
     "id": 1,
     "name": "SG VMESS Free",
     "rawLink": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJQZXBlci1BaXNfU2V2ZXLwn4e58J+HreKAiy04Zmx1cm5xZSIsCiAgImFkZCI6ICI0NS4xNDQuMTY1LjExOCIsCiAgInBvcnQiOiA4MDgwLAogICJpZCI6ICIwN2Q5ZmRmNi01OGJjLTRmYWMtYWJhMi03Mzg2NzJkMzU4NTMiLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ3cyIsCiAgInRscyI6ICJub25lIiwKICAicGF0aCI6ICIvcGVwZXItc2luZyIsCiAgImhvc3QiOiAic3BlZWR0ZXN0Lm5ldCIKfQ==",
-    "isPremium": false
+    "isPremium": false,
+    "country": "Singapore"
   },
   {
     "id": 2,
     "name": "US SSH Premium",
     "rawLink": "nm-ssh://ogMIed6CjAbusWUSvf88pIbsUfwCAqHqL69ltR3jBG8Ptxi1TiNYmilNZ7IanEYJ3SY/DE/QGYchS6fVgSlKFADhud0PmfEmEWKXZBARfADHj3SjCjBCN/cWdINS0FQyUFdbqk3k78r+7zzD6Ea5AfU661t3AM2GzNqnSrvmzFqLAorOwnlm6/DDWlKkvk27nzlJdGsshuAO9AhooCyce52RT8LEi0C4d0jrb3fKfDmxYOewq8ay/IZLGTKoOQKm0QmnqOFxP9TBg5L1UT+0ZoJJHN25HlGVo8UbbBhrBVtfzMGb0SMmYeBJ5uod87JNwCndyzO9xvOn0qJpWbOYXcoa2H29SgRjwgn4u+3qDqyGnG7NIi4GQ02qGbDT7lhEvOUZyVyw9NuyCq5tSLTHBBH3GgXRqF58ph5lRULLVrhwU/sxZnMw4BOQVqox2YZCrXqck+1TTaF+qHGiiAZB+Zz4GQCsf42whgu5GCd7O4pWAUpcVKjrQmcHTvYHmGGqHb9prtUZscuzO9tthbAHbUpe4ZkH3mCV6Pra5I3a+CjeQ4QyYls59AIF8ZY1NL1GMb2KugEpxVM/h/fZKtWjmKgXjYZx0EDBb/X4zYrzzzeWW1WjxUb3qlew3M8xhxqcsLNcQhEgX6XhEdGwCYevIP+Ob2iy/dA8oiKGI/ZfSbyqjhCNRVpeuxNmohmtg+GMxw1/bTzRiNpWOBBVbSR2MUcPpLSeAGZRuUgR955pU+eYhlROFxjAqA5G2IgfC7LuXDKwjBqnJirBEVLcD60QM2zfC5YwTRSGbYDjBOyAiyMfBbg3XsaUV9BUxsFuXj4BoArmZZeUU0tIFUrD34ctoto87Zm5xxsYS2TDWnNAhVrGk3ut3B5/z/D5zXDFVJzkyP+Yl6ZyHoDrg+pPVwhL7//+jvYKjJMu7dtT7r27mRM=",
-    "isPremium": true
+    "isPremium": true,
+    "country": "United States"
   }
 ]
